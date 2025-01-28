@@ -34,6 +34,9 @@ Each project I take on is an opportunity to solve meaningful problems and create
 ### **My Work in Action** 🌟  
 My professional journey includes leading and contributing to impactful projects across various industries:  
 
+- **Creative Director/Product Manager at Xpress Digital (May 2024 - Present)**:  
+  As part of the founding team, I shape the digital identities of brands by defining client goals and translating them into actionable strategies. I’ve successfully managed multiple projects, boosting brand visibility and fostering collaboration for seamless execution.  
+
 - **Software Engineer at Suredez (2022)**:  
   Developed a peer-to-peer crypto payment platform featuring user authentication, real-time crypto pricing via APIs, and enhanced user experience with AJAX, achieving a 10% satisfaction boost.  
 
@@ -66,7 +69,7 @@ You’re here, so let’s dive into what I’ve got going on:
 - **Problem-Solving Tools**: Solutions that tackle real-world challenges. 🔍  
 
 Explore my GitHub stats 📊 to see the impact and reach of my work in action.  
-
+![hortharn's Stats](https://github-readme-stats.vercel.app/api?username=hortharn&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 ---
 
 ### **Connect Beyond Code** 📡  
