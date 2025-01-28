@@ -19,7 +19,9 @@ I’m a full-stack developer with a robust foundation in web development, UI/UX 
 ---
 
 ### **Why I Build** 💡  
-Great products are more than just code; they are **conversations**. 🗣️ They tell stories, solve problems, and leave a lasting impression. ✨ My work focuses on creating:  
+Great products are more than just code; they are **conversations**. 
+🗣️ They tell stories, solve problems, and leave a lasting impression. 
+✨ My work focuses on creating:  
 
 - **Scalable solutions** that adapt to user needs. ⚙️  
 - **Memorable interfaces** that resonate with the audience. 🎨  
