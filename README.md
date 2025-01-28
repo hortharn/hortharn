@@ -63,6 +63,7 @@ You’re here, so let’s dive into what I’ve got going on:
 | Blockchain      | Decentralized systems. 🔒  
 | Google Tools    | Analytics, optimization, and SEO. 📊  
 
+<!---
 #### **Repositories You’ll Love**  
 - **Web Applications**: User-friendly, responsive, and feature-rich. 🌐  
 - **Creative Tools**: Experimental and purposeful designs. 🛠️  
@@ -70,6 +71,7 @@ You’re here, so let’s dive into what I’ve got going on:
 
 Explore my GitHub stats 📊 to see the impact and reach of my work in action.  
 ![hortharn's Stats](https://github-readme-stats.vercel.app/api?username=hortharn&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+--->
 ---
 
 ### **Connect Beyond Code** 📡  
